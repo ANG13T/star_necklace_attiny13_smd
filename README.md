@@ -1,6 +1,8 @@
 # ATtiny13 SMD Star Wearable 
 This star-shaped blinky wearable showcases mesmerizing constellation and star art, brought to life by the bright programmable LEDs showcasing dazzling light patterns on a sleek SMD PCB canvas. Powered by the ATtiny13 IC, this wearable features ICSP pins at the bottom, allowing for quick programmability. With the aid of a stencil, if needed, users can hone their SMD soldering skills while assembling this board 🌟.
 
+![https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/view_front.png](https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/view_front.png)
+
 ## Features
 - 0603 SMD LED Blinky 💡
 - Programmable ICSP Pins 💻
@@ -9,15 +11,17 @@ This star-shaped blinky wearable showcases mesmerizing constellation and star ar
 
 ## Schematic
 
-![]()
+![https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/schematic.png](https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/schematic.png)
 
 ## PCB Layout
 
-![]()
+![https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/pcb_design.png](https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/pcb_design.png)
 
 ## PCB Preview 
 
-![]()
+![https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/view_front.png](https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/view_front.png)
+
+![https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/view_back.png](https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/view_back.png)
 
 ## Components and BOM
 - [Coin Cell Battery Holder](https://www.amazon.com/Hxchen-BS-6DIP-Electrical-Lithium-Battery/dp/B07VZCXQJ3/ref=sr_1_4?crid=137ZLMXB341HN&dib=eyJ2IjoiMSJ9.FAZfUVjx-amvVZQFDQayx1DTAELAT7UHsjt1i3umGrmq6VrMWubXK4cR3pBM2OXSFJxGxn66Rqdb75hRqESjyekIWibwSGPvcUW_ZunogmkfUMXzrjglRcwq7rYWKGZNgoAJeeKDEVF0zIDRyL6-7NgC4t-UccmiJd2TyywsCXh8i3oRKWlyLkxmMmLMCbIMxj1R2Xmxx2ad2woiqsd3-W30hNI-EFuWxWSaqX6obgs.yfpnrf9w42S0wzco9R1xrDe15wqjDZEtSnvYh6hZCOk&dib_tag=se&keywords=smd+3v+coin+battery+holder&qid=1711984515&sprefix=sm3v+coin+battery+holder%2Caps%2C280&sr=8-4): $7.99
