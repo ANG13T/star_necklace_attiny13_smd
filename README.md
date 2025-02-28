@@ -74,6 +74,10 @@ The pinout breakdown is as follows:
 | 5    | MOSI | Master Out Slave In (SPI): Data output to SPI slave devices. |
 | 6    | RST  | Reset: Reset signal, typically active low, used to reset the microcontroller. |
 
+## Programming via Arduino Nano (ICSP)
+
+![https://www.electronicshub.org/wp-content/smush-webp/2021/01/Arduino-Nano-Pinout.jpg.webp](https://www.electronicshub.org/wp-content/smush-webp/2021/01/Arduino-Nano-Pinout.jpg.webp)
+
 ## Contributing
 If you would like to implement any design iterations to the PCB, please fork the repository and make a pull request with the features or fixes you want to implement.
 
