@@ -60,6 +60,8 @@ Below is a preview pinout for the IC.
 
 ![https://mogshade.files.wordpress.com/2012/05/attiny13.png](https://mogshade.files.wordpress.com/2012/05/attiny13.png)
 
+![https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/pinout.png](https://github.com/ANG13T/star_necklace_attiny13_smd/blob/main/Assets/pinout.png)
+
 
 The pinout breakdown is as follows:
 
